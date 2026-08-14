@@ -2,35 +2,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Privacy Policy — Star Keeper</title>
-<style>
-  :root { color-scheme: light dark; }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0; padding: 40px 20px 80px;
-    font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background: #ffffff; color: #1a1a1a;
-  }
-  main { max-width: 720px; margin: 0 auto; }
-  h1 { font-size: 30px; line-height: 1.2; margin: 0 0 6px; }
-  h2 { font-size: 19px; margin: 34px 0 8px; }
-  .meta { color: #666; font-size: 14px; margin-bottom: 28px; }
-  .callout {
-    background: #f2f7ff; border-left: 4px solid #2f6fd0;
-    padding: 14px 18px; border-radius: 4px; margin: 22px 0;
-  }
-  ul { padding-left: 22px; }
-  li { margin: 5px 0; }
-  a { color: #2f6fd0; }
-  footer { margin-top: 44px; padding-top: 18px; border-top: 1px solid #e3e3e3; color: #666; font-size: 14px; }
-  @media (prefers-color-scheme: dark) {
-    body { background: #14161a; color: #e8e8ea; }
-    .meta, footer { color: #9aa0a6; }
-    .callout { background: #1b2430; border-left-color: #5b9bf5; }
-    footer { border-top-color: #2a2d33; }
-    a { color: #7db1ff; }
-  }
-</style>
 </head>
 <body>
 <main>
